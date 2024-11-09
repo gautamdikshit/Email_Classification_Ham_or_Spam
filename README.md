@@ -4,7 +4,7 @@
 
 In this project, I built a model that can classify emails into two categories: spam or ham. Here's what I did:
 
-Data Collection & Preprocessing:
+*Data Collection & Preprocessing*:
 
 The dataset I worked with contained labeled emails in the "spam.csv" file.
 I preprocessed the data using spaCy to remove stop words, punctuation, and lemmatize the text, ensuring that the model focuses on meaningful features.
