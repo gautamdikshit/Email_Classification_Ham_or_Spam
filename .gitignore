@@ -1,0 +1,11 @@
+# Ignore virtual environment folder
+env/
+
+# Ignore specific large files
+*.dll
+*.h5
+
+# Other common ignores
+__pycache__/
+*.pyc
+*.pyo
